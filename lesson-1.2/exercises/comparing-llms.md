@@ -4,13 +4,12 @@ Welcome to the Chatbot Model Comparison activity! Here, you will compare the out
 Complete the activity [here](https://igfnaqfcyl-13589482-i.codehs.me/index.html).  Then edit this page and write down your reflections here:
 
 ### Which model did you find performed best overall, and why?
-[Reflection Here]
+For me it was model B,it felt like a nice balance between to the three.
 
 ### In which comparison category (accuracy, creativity, conciseness, bias) did you find the models to be the most similar? What about the most different?
-[Reflection Here]
+The category  that was the most similar is creativity each felt that it could of been writen by  the same person.Bias is the most diffenct since it could of gotten its information from different sources ,since they all read very differently.
 
 ### Were you surprised by any of the results?
-[Reflection Here]
-
+No when using AI theres never one way it presents  information.
 ### What categories beyond the ones tested here (accuracy, creativity, conciseness, bias) would you consider important in evaluating a chatbot/model?
-[Reflection Here]
+One I would consider important would be  understandablitly,being  able to understand whats its giving you.
