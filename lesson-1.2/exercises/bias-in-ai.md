@@ -6,4 +6,4 @@ Now complete this exercise, you will [work directly with a model trained on real
 
 
 ### Reflections
-[What did you learn from this exercise]
+Theres a lot more type of biases you have to look out for when using AI since you want information thats just purely facts, Also coding it in a way that it can notice not so friendly terms and could prevent it from going through is neat.
